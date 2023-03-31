@@ -89,3 +89,5 @@ The most important facet of this discussion to take away is the fact that, simpl
 I hope that this document is helpful to newer Linux users trying to make good decisions about their OS. Additionally, a good way to add to your decision-making knowledge is to read the discussion forums on Reddit and on the OS's websites. That can give you a better, more realistic idea of what different distributions can offer you.
 
 If you have any suggestions for improvements to this document, don't hesitate to let me know.
+
+This document and any updates to it will be available at https://github.com/chunkyhairball/should-I-switch-distributions .
