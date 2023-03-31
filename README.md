@@ -12,7 +12,7 @@ What you're probably after here is a new theme. With some exceptions, most Linux
 
 https://www.pling.com/ is worth checking out. I personally don't use their Pling store app, preferring to manually install themes or to install them from the OS's package manager or theme manager if they're available there. https://www.deviantart.com/ is also a good place to look.
 
-You may also be after new fonts. Again, your distribution's package manager probably has lots, but check out fonts.google.com for a wealth of installable fonts. Again, fonts are very likely to be available from your package manager
+You may also be after new fonts. Again, your distribution's package manager probably has lots, but check out https://fonts.google.com/ for a wealth of installable fonts. Again, fonts are very likely to be available from your package manager
 
 A good example: When Garuda Linux (https://garudalinux.org/) first started gaining traction, many people were excited by its new look and wanted to switch to it.
 
